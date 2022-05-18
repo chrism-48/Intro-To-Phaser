@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-phaser",
+  "version": "1.0.0",
+  "description": "Learning phaser js library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrism-48/Intro-To-Phaser.git"
+  },
+  "author": "Chris Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrism-48/Intro-To-Phaser/issues"
+  },
+  "homepage": "https://github.com/chrism-48/Intro-To-Phaser#readme",
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "phaser": "^3.55.2"
+  }
+}
